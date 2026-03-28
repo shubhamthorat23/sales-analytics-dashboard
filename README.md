@@ -1,4 +1,4 @@
-# sales-analytics-dashboard
+# Online Retail Sales Insights Dashboard
 Online Retail Sales Insights Dashboard using Power BI
 # Online Retail Sales Insights Dashboard
 
