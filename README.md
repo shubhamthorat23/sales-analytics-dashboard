@@ -27,8 +27,7 @@ This project analyzes e-commerce sales data to identify key business insights su
 
 * Power BI Dashboard (.pbix)
 * Dataset
-* Dashboard Screenshot
- https://github.com/shubhamthorat23/FUTURE_DS_01/blob/main/Online%20Retail%20sales%20insights%20Dashboard%20png.png
+*  ![Dashboard Screenshot]([ https://github.com/shubhamthorat23/FUTURE_DS_01/blob/main/Online%20Retail%20sales%20insights%20Dashboard%20png.png]
 
 ## 🚀 Outcome
 
